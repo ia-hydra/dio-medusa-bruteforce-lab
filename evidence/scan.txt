@@ -1,0 +1,14 @@
+## Scan 127.0.0.1 ports 2121,1445,8088
+Fri Sep 25 20:52:40 UTC 2026
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-09-25 20:52 UTC
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00014s latency).
+
+PORT     STATE SERVICE     VERSION
+1445/tcp open  netbios-ssn Samba smbd 4.6.2
+2121/tcp open  ftp         vsftpd 3.0.5
+8088/tcp open  http        BaseHTTPServer 0.6 (Python 3.12.3)
+Service Info: OS: Unix
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 48.79 seconds

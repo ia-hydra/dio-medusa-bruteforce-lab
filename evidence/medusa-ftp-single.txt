@@ -1,0 +1,9 @@
+Medusa v2.2 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+GENERAL: Parallel Hosts: 1 Parallel Logins: 1
+GENERAL: Total Hosts: 1 
+GENERAL: Total Users: 1
+GENERAL: Total Passwords: 1
+ACCOUNT CHECK: [ftp] Host: 127.0.0.1 (1 of 1, 0 complete) User: dioftp (1 of 1, 0 complete) Password: <LAB_PASSWORD> (1 of 1 complete)
+ACCOUNT FOUND: [ftp] Host: 127.0.0.1 User: dioftp Password: <LAB_PASSWORD> [SUCCESS]
+GENERAL: Medusa has finished.
